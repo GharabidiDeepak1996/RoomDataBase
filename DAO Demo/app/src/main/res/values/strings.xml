@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DAO Demo</string>
+    <string name="name">Name</string>
+    <string name="insert">insert</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="dispay">Dispay</string>
+    <string name="password">password</string>
+    <string name="id_is_required_when_you_need_to_delete_particular_row">ID is required,when you need to delete particular row</string>
+</resources>
